@@ -57,6 +57,6 @@
         }
     },
     "require-dev": {
-        "symfony/phpunit-bridge": "^4.3"
+        "symfony/phpunit-bridge": "^5.0"
     }
 }
